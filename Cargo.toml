@@ -1,0 +1,11 @@
+[package]
+name = "cfg_expr"
+version = "0.1.0"
+authors = ["Popog"]
+keywords = ["target", "cfg", "build"]
+license = "MIT/Apache-2.0"
+repository = "https://github.com/Popog/cfg_expr"
+documentation = "https://docs.rs/cfg_expr"
+description = "Runtime parsing and matching for `cfg` expressions."
+
+[dependencies]
